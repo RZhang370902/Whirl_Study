@@ -1,0 +1,3 @@
+to delete file
+
+delete -> git add . -> commit -> push
