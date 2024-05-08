@@ -27,3 +27,10 @@ for i in range(5):
 L = [4,2,3,1]
 L.sort()
 print(L)
+
+
+# Scenario 1
+x = 5
+if x < 4:
+ y = x*2
+ print(x)
